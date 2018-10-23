@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Zonair Product Designer',
+    title: 'Zonair Student',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
